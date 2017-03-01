@@ -9,3 +9,6 @@ library("shiny")
 runGitHub("interaction-plot", "leeper")
 ```
 
+The app looks like this:
+
+![screenshot](images/screenshot.png)
